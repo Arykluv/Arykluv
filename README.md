@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on File Organizer 
+- 🌱 I’m currently learning Data struture and algorithems 
 <!--
 **Arykluv/Arykluv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
